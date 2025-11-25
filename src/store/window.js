@@ -16,11 +16,7 @@ const useWindowStore = create(
         win.data = data ?? win.data;
         state.nextZIndex++;
       }),
-<<<<<<< HEAD
-    closedWindow: (windowKey) =>
-=======
     closeWindow: (windowKey) =>
->>>>>>> 62244af3351bf0d5c32e55faec57f235692e7473
       set((state) => {
         const win = state.windows[windowKey];
         if (!win) return;
