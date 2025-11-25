@@ -79,34 +79,34 @@ const navLinks = [
       id: 1,
       date: "Sep 2, 2025",
       title:
-        "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
+        "Jarvis AI",
       image: "/images/blog1.png",
-      link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+      link: "https://x.com/somraj_nandi/status/1901265893318910221?s=20",
     },
     {
       id: 2,
       date: "Aug 28, 2025",
-      title: "The Ultimate Guide to Mastering Three.js for 3D Development",
+      title: "To Do List Application",
       image: "/images/blog2.png",
-      link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+      link: "https://x.com/somraj_nandi/status/1910763652480999628?s=20",
     },
     {
       id: 3,
       date: "Aug 15, 2025",
-      title: "The Ultimate Guide to Mastering GSAP Animations",
+      title: "Open Source Contributions for Hacktoberfest 2025",
       image: "/images/blog3.png",
-      link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+      link: "https://www.linkedin.com/posts/somraj-nandi_hacktoberfest-opensource-github-activity-7393712710250729472-PDzg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHQEE0B1n76DnEhLgPfTc4xwHUqWGWg1Oc",
     },
   ];
   
   const techStack = [
     {
       category: "Frontend",
-      items: ["React.js", "Next.js", "TypeScript"],
+      items: ["React.js", "Next.js","Vue.js", "TypeScript"],
     },
     {
       category: "Mobile",
-      items: ["React Native", "Expo"],
+      items: ["React Native", "Swift"],
     },
     {
       category: "Styling",
@@ -114,11 +114,11 @@ const navLinks = [
     },
     {
       category: "Backend",
-      items: ["Node.js", "Express", "NestJS", "Hono"],
+      items: ["Node.js", "Express", "NestJS", "Firebase"],
     },
     {
       category: "Database",
-      items: ["MongoDB", "PostgreSQL"],
+      items: ["MongoDB", "PostgreSQL", "MySQL"],
     },
     {
       category: "Dev Tools",
@@ -132,28 +132,28 @@ const navLinks = [
       text: "Github",
       icon: "/icons/github.svg",
       bg: "#f4656b",
-      link: "https://github.com/JavaScript-Mastery-Pro",
+      link: "https://github.com/somraj112",
     },
     {
       id: 2,
-      text: "Platform",
+      text: "Instagram",
       icon: "/icons/atom.svg",
       bg: "#4bcb63",
-      link: "https://jsmastery.com/",
+      link: "https://www.instagram.com/somrajnandi/#",
     },
     {
       id: 3,
       text: "Twitter/X",
       icon: "/icons/twitter.svg",
       bg: "#ff866b",
-      link: "https://x.com/jsmasterypro",
+      link: "https://x.com/somraj_nandi",
     },
     {
       id: 4,
       text: "LinkedIn",
       icon: "/icons/linkedin.svg",
       bg: "#05b6f6",
-      link: "https://www.linkedin.com/company/javascriptmastery/posts/?feedView=all",
+      link: "https://www.linkedin.com/in/somraj-nandi/",
     },
   ];
   
@@ -188,19 +188,19 @@ const navLinks = [
   const gallery = [
     {
       id: 1,
-      img: "/images/gal1.png",
+      img: "/images/gal1.jpg",
     },
     {
       id: 2,
-      img: "/images/gal2.png",
+      img: "/images/gal2.jpeg",
     },
     {
       id: 3,
-      img: "/images/gal3.png",
+      img: "/images/gal3.jpg",
     },
     {
       id: 4,
-      img: "/images/gal4.png",
+      img: "/images/gal4.jpg",
     },
   ];
   
@@ -397,7 +397,7 @@ const navLinks = [
         kind: "file",
         fileType: "img",
         position: "top-10 left-5",
-        imageUrl: "/images/adrian.jpg",
+        imageUrl: "/images/somraj.jpg",
       },
       {
         id: 2,
@@ -406,16 +406,16 @@ const navLinks = [
         kind: "file",
         fileType: "img",
         position: "top-28 right-72",
-        imageUrl: "/images/adrian-2.jpg",
+        imageUrl: "/images/somraj-2.jpg",
       },
       {
         id: 3,
-        name: "conference-me.png",
+        name: "travel-me.png",
         icon: "/images/image.png",
         kind: "file",
         fileType: "img",
         position: "top-52 left-80",
-        imageUrl: "/images/adrian-3.jpeg",
+        imageUrl: "/images/somraj-3.jpg",
       },
       {
         id: 4,
@@ -425,7 +425,7 @@ const navLinks = [
         fileType: "txt",
         position: "top-60 left-5",
         subtitle: "Meet the Developer Behind the Code",
-        image: "/images/adrian.jpg",
+        image: "/images/somraj.jpg",
         description: [
           "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
           "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
